@@ -103,7 +103,7 @@ Now you can uninstall tzdata
 - $ apk add doas doas-doc
 - $ nvim /etc/doas.conf
 
-Todo: doas in now working for me (`doas: timestamp uid, gid or mode wrong`)
+Todo: doas is not working for me (`doas: timestamp uid, gid or mode wrong`)
 
 # Alpine::Man setup
 
